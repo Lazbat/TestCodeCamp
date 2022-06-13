@@ -1,2 +1,0 @@
-# TestCodeCamp
-My Testcodecamp activities
